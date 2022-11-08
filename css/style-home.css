@@ -8,8 +8,15 @@ header{
     color:#FFFFFF;
 }
 
+#banner{
+    width:100%;
+}
+
 .titulo-centralizado {
 	text-align: center;
+    font-size: 5vh;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 3.5vh;
 }
 .principal{
 	background: #CCCCCC;
@@ -29,7 +36,8 @@ em strong {
 }
 
 .itens {
-	font-style: italic
+	font-style: italic;
+    margin: 2.5vw 0vw 0vw 6vw;
 }
 
 .beneficios {
@@ -42,4 +50,10 @@ ul {
 	vertical-align: top;
 	width: 20%;
 	margin-right: 15%;
+}
+
+.imagembeneficios {
+	width: 30%;
+    margin-top: 5vh;
+    margin-left: 10vw;
 }
