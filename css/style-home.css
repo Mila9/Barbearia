@@ -2,6 +2,7 @@ header{
     background-color: #793700;
     height: 12vh;
 }
+
 .titulo-principal {
 	padding-left: 20px;
     font-size: 6vh;
@@ -41,7 +42,7 @@ em strong {
 }
 
 .beneficios {
-	background: #FFFFFF;
+	background: #e6e5d5;
 	padding: 20px;
 }
 
